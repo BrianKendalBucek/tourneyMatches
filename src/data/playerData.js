@@ -4,4 +4,7 @@ const playerData = {
     firstName: "Daria ",
     lastName: "Stark",
   },
+      // more players below...
 };
+
+export default playerData;
